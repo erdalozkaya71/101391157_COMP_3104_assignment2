@@ -1,1 +1,2 @@
 Erdal Ozkaya-101391157 Git repository created
+Git repository created from AWS EC2 instance
